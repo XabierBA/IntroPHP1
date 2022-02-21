@@ -5,6 +5,6 @@ for. ¿Cuál sería el más adecuado de estos dos para este caso?
 <?php
     for($n1 = 0; $n1 <= 10; $n1++) {
 
-        echo $n1;
+        echo $n1 . '<br>';
     }
 ?>
